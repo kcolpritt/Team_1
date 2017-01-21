@@ -2,7 +2,7 @@
  * main.h
  *
  *  Created on: Jan 17, 2017
- *      Author: Domin
+ *      Author:
  */
 
 #ifndef MAIN_H_

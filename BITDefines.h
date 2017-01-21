@@ -2,7 +2,7 @@
  * BITDefines.h
  *
  *  Created on: Jan 17, 2017
- *      Author: Domin
+ *      Author: Dominic
  */
 
 #ifndef BITDEFINES_H_
